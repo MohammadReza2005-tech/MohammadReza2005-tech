@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammadReza2005-tech
 - 👀 I’m interested in servers and programming 
-- 🌱 I’m currently learning netwwork security
-- 💞️ I’m looking to collaborate in python 
+- 🌱 I’m currently learning network security
+- 💞️ I’m looking for collaborations in python 
 - 📫 you can contact me with my email address 
 
 <!---
